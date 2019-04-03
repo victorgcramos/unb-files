@@ -1,6 +1,16 @@
 # Arquivos da Unb
 Repositório para fácil acesso de documentos, cronogramas e arquivos necessários para o curso de Engenharia de Computação da Universidade de Brasília
 
+## Motivação
+Muitos alunos estão lidando com problemas para aquisição de documentos, pois a UnB não os fornece de maneira prática e eficiente, e, muitas vezes, temos que ficar desvendando a internet para achar um documento, ou um formulário necessário para realizar alguma atividade.
+
+Esse repositório serve para que os alunos se orientem de forma mais eficiente, sem ter que lidar com uma interface difícil de navegar que as matérias nos colocam.
+
+Tentarei atualizar esse repositório à medida em que coloco os arquivos.
+
+**Fiquem à vontade para contribuir!**
+
+
 ## Links Importantes
 Alguns links importantes diretamente dos sites das respectivas instituições
 
