@@ -8,3 +8,6 @@ Atualmente possui só a resolução do livro, mas já é bem útil.
 - [Sinais](http://queiroz.divp.org/sinais/ss_sinais.pdf)
 - [Sistemas](http://queiroz.divp.org/sinais/ss_sistemas.pdf)
 - [Fourier](http://queiroz.divp.org/sinais/ss_fourier.pdf)
+- [Laplace 1](http://queiroz.divp.org/sinais/ss_laplace_1.pdf)
+- [Laplace 2](http://queiroz.divp.org/sinais/ss_laplace_2.pdf)
+ 
